@@ -8,4 +8,7 @@ public class Main {
 		System.out.println("This is main branch of local repo");
 	}
 
+	public void Test() {
+		System.out.println("This is also in main branch of local rep");
+	}
 }
