@@ -15,4 +15,8 @@ public class Main {
 	public void HR() {
 		System.out.println("This is in HR Branch");
 	}
+	
+	public void HZ() {
+		System.out.println("This is in HZ Branch");
+	}
 }
